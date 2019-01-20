@@ -3,7 +3,10 @@ ENV setup
 yum install centos-release-scl
 yum install rh-python36
 scl enable rh-python36 bash
+
 python --version
+
+Python 3.6.3
 
 
 Ref Doc
